@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "embedColor": "#0099ff",
+    "maxGamesPerPage": 25,
+    "allowedFileExtensions": [".rbxlx", ".rbxl"],
+    "gamesDirectory": "./games"
+  },
+  "messages": {
+    "noGamesFound": "No Roblox game files found! Please add .rbxlx files to the games folder.",
+    "gameGenerated": "🎮 Game Generated Successfully!",
+    "selectGame": "Please select a game from the dropdown menu below:",
+    "processingRequest": "⚙️ Processing your request...",
+    "errorOccurred": "An error occurred while processing your request."
+  }
+}

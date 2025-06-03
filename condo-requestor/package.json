@@ -1,0 +1,25 @@
+{
+  "name": "roblox-game-generator-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing and generating Roblox game files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "roblox",
+    "game",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
